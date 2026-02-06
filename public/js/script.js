@@ -3,7 +3,7 @@ const students = [
         name: "Arthur D´eÇa Morgenstern Vinhas Marchetti",
         email: "avinhasmarchetti@gmail.com",
         quote: "Precision thinking and curiosity drive innovation — keep building systems that others rely on.",
-        feature: 1
+        feature: 9
     },
     {
         name: "Caue Roriz Casonato",
